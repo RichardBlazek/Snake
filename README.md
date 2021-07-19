@@ -1,2 +1,2 @@
 # Snake
-Plain old snake game written in plain old C++
+Good old snake game written in good old C++
